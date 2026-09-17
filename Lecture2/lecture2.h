@@ -4,6 +4,6 @@
 
 // Lecture 2
 // Merge two sublists
-void merge(int arr[], int start, int mid, int end);
+// void merge(int arr[], int start, int mid, int end);
 
-void mergeSort(int arr[], int l, int r);
+// void mergeSort(int arr[], int l, int r);
